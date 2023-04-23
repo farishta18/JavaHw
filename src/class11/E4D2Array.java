@@ -11,7 +11,7 @@ public class E4D2Array {
 
         for (int[] arr1D:arr2D){
             for (int num:arr1D){
-                System.out.println(num);
+                System.out.print(num+" ");
             }
         }
     }
