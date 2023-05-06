@@ -5,7 +5,7 @@ public class E6 {
         String alphn="abcd2335$#&*";
         String alphn2=alphn.replaceAll("^a-zA-Z","");
         System.out.println(alphn2);
-        System.out.println(alphn2.length());
+      //  System.out.println(alphn2.length());
 
     }
 }
